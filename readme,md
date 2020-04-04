@@ -1,6 +1,0 @@
-this is given as a test to check if the particpant can use pwntools. 
-
-the strings given to are encoded in base64 three times over.
-
-reverse the encoding and you get a sha 512 hash. if you perform areverse look up online you see it is for a single char.
-perform reverse look by creating your own table
