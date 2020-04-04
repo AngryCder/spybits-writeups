@@ -1,6 +1,6 @@
 the hash function uses modular artmetic and matrix multiplication .
 
-sage is a programming language that is great at for solving large numbers.
+sage is a programming language that is great at for solving large numbers and dealing with modular arthmetic.
 
 https://www.sagemath.org/
 
